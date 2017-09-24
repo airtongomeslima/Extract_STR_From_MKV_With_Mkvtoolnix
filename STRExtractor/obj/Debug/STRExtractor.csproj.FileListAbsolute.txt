@@ -1,0 +1,6 @@
+C:\Users\airto\documents\visual studio 2017\Projects\STRExtractor\STRExtractor\bin\Debug\STRExtractor.exe.config
+C:\Users\airto\documents\visual studio 2017\Projects\STRExtractor\STRExtractor\bin\Debug\STRExtractor.exe
+C:\Users\airto\documents\visual studio 2017\Projects\STRExtractor\STRExtractor\bin\Debug\STRExtractor.pdb
+C:\Users\airto\documents\visual studio 2017\Projects\STRExtractor\STRExtractor\obj\Debug\STRExtractor.csprojResolveAssemblyReference.cache
+C:\Users\airto\documents\visual studio 2017\Projects\STRExtractor\STRExtractor\obj\Debug\STRExtractor.exe
+C:\Users\airto\documents\visual studio 2017\Projects\STRExtractor\STRExtractor\obj\Debug\STRExtractor.pdb
